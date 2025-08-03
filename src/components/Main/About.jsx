@@ -45,7 +45,7 @@ const About = () => (
                                     defaultMessage='Age:'
                                 />
                             </span>
-                            25
+                            5
                         </p>
                     </li>
                     <li>
@@ -57,7 +57,7 @@ const About = () => (
                         </p>
                     </li>
                     <li>
-                        <p><span>Email:</span> estebancarrizo619@gmail.com</p>
+                        <p><span>Email:</span> purevbaasankhuu@gmail.com</p>
                     </li>
                     <li>
                         <p>
