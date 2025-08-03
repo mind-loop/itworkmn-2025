@@ -38,7 +38,7 @@
 
   "footer-info": "Website created by IT Work",
 
-  "btn-cv": "Download company profile",
+  "btn-cv": "Download",
 
   "services-price": "Pricing",
   "services-info-title-1": "Starter Plan",
@@ -68,5 +68,5 @@
   "services-questions-3": "Is monthly maintenance necessary?",
   "services-questions-p3": "Yes. It ensures your site remains up-to-date, secure, and continues performing well over time.",
   "services-questions-4": "How do I pay?",
-  "services-questions-p4": "We accept online payments via credit/debit card or bank transfer."
+  "services-questions-p4": "We accept online payments via bank transfer."
 }
